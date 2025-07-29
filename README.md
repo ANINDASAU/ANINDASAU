@@ -83,7 +83,7 @@ More projects coming soon... 🚧
 
 ### 📬 Connect with Me!
 <p>
-  <a href="https://www.linkedin.com/in/anindasau/" target="_blank">
+  <a href="[https://www.linkedin.com/in/anindasau/](https://www.linkedin.com/in/aninda-sau-5445b72a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2FV0m5%2B%2BRcaS48MKc2hySQ%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anindasau@gmail.com" target="_blank">
