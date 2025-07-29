@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aninda Sau</h1>
-<h3 align="center">AIML and Cloud Enthusiast 🚀 | CSE Student | Cybersecurity Learner</h3>
+<h3 align="center">AIML and Cloud Enthusiast 🚀 | Pursuing B.Tech in CSE(AIML)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20views&color=0e75b6&style=flat" alt="anindasau" />
@@ -9,7 +9,7 @@
 
 ### 👋 Hello World!
 
-I'm **Aninda Sau**, a passionate Computer Science student from **The Neotia University, India**, currently exploring the vast world of **AI/ML** 🤖, **Cloud Computing** ☁️, and **Cybersecurity** 🔒.  
+I'm **Aninda Sau**, a passionate Computer Science student from **The Neotia University, India**, currently exploring the vast world of **AI/ML** 🤖, **Cloud Computing** ☁️.  
 I love working on real-world projects, building smart solutions, and contributing to open source.
 
 ---
@@ -51,10 +51,23 @@ I love working on real-world projects, building smart solutions, and contributin
 ---
 
 ### 💼 Projects
-Here are some highlights of what I've worked on:
-- 🔍 **Cybersecurity AI Platform** – ML-based anomaly detection & chatbot for threat alerts.
-- 📊 **ML Visualization Toolkit** – Built using `matplotlib`, `seaborn`, and `sklearn`.
-- 🌐 **Personal Portfolio Website** – Responsive site using HTML, CSS, JS, Flask, and Render hosting.
+
+Here are some of the exciting projects I've worked on:
+
+#### 🔮 Machine Learning Projects:
+- 🚗 **Car Price Prediction** – Predicts car prices using ML models.
+- 😄 **Emotion Detection** – Detects emotions from data inputs.
+- 📉 **Customer Churn Prediction** – Predicts which customers may leave.
+- 🎯 **Rock vs Mine Prediction** – Predicts object type (rock or mine) using sonar data.
+- 🎓 **Graduate Admission Prediction** – Predicts graduate school admission chances.
+
+#### 🌐 Web Development Projects:
+- 🌌 **Parallax Website** – Web page with parallax effects using HTML and CSS.
+- 🖥️ **Static Application Web Page** – Basic static website using HTML and CSS.
+
+#### 🧰 Python-Based Tools:
+- 🤖 **Word Prediction Chatbot** – Simple chatbot that predicts next words based on input.
+- 🔐 **Simple Password Generator** – Generates secure passwords with numbers, alphabets, and special characters.
 
 More projects coming soon... 🚧
 
@@ -73,8 +86,8 @@ More projects coming soon... 🚧
   <a href="https://www.linkedin.com/in/anindasau/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:anindasau2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:anindasau@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail 2-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
