@@ -89,6 +89,9 @@ More projects coming soon... 🚧
   <a href="mailto:anindasau@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail 2-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://my-portfolio-iloz.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-00C897?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
 </p>
 
 ---
