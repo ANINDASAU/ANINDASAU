@@ -103,7 +103,20 @@
 
 ---
 
-### 🏆 Extra GitHub Flair  
+### 📈 Contribution Graphs  
+
+#### 🔹 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindasau&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+#### 🔹 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/anindasau/anindasau/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
+
+### 🏆 Extra GitHub Flair 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anindasau&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
