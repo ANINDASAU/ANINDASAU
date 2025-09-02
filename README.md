@@ -102,11 +102,13 @@
 </p>
 
 ---
-### 📈 GitHub Stats 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="Aninda's GitHub stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak"/> </p>
----
 
 ### 📈 Contribution Graphs  
+
+#### 🔹 Contribution Heatmap (Daily Activity)  
+<p align="center">
+  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="Aninda's Github Contribution Graph" />
+</p>
 
 #### 🔹 Activity Graph  
 <p align="center">
@@ -117,16 +119,13 @@
 <p align="center">
   <img src="https://github.com/anindasau/anindasau/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
 
 ### 🏆 Extra GitHub Flair 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anindasau&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindasau&theme=radical" alt="GitHub Activity Graph"/>
 </p>
 
 ---
