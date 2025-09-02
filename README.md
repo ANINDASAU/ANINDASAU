@@ -102,6 +102,9 @@
 </p>
 
 ---
+### 📈 GitHub Stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="Aninda's GitHub stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak"/> </p>
+---
 
 ### 📈 Contribution Graphs  
 
