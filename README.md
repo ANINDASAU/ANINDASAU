@@ -93,22 +93,28 @@
 
 ---
 
-### 📊 GitHub Stats  
+---
+
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="Aninda's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
-### 📈 Contribution Graphs  
+### 📊 Contribution Graph  
 
-#### 🔹 Contribution Heatmap (Daily Activity)  
 <p align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="Aninda's Github Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindasau&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
+
+---
 
 #### 🔹 Activity Graph  
 <p align="center">
