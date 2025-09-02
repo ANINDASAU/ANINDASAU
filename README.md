@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AIML & Cloud Enthusiast | B.Tech CSE (AIML) Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -12,8 +12,8 @@
 
 💡 I'm **Aninda Sau**, a passionate **Computer Science & Engineering student** from **The Neotia University, India**.  
 🔭 Currently exploring **Artificial Intelligence, Machine Learning**, and **Cloud Computing**.  
-⚡ I enjoy building **real-world projects**, solving challenging problems, and contributing to **open source**.  
-🌐 Visit My Portfolio → [Click Here](https://my-portfolio-iloz.onrender.com/)  
+⚡ I love building **real-world projects**, solving challenges, and contributing to **open source**.  
+🌐 Check out my **Portfolio** → [Click Here](https://my-portfolio-iloz.onrender.com/)  
 
 ---
 
@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
@@ -64,24 +64,18 @@
 | 🎯 **Rock vs Mine Prediction** | Classifies sonar signals. |
 | 🎓 **Graduate Admission Prediction** | Predicts admission chances. |
 
----
-
 #### 🧠 Deep Learning  
 | 🚀 Project | 📌 Description |
 |------------|----------------|
-| 🛒 **Customer Churn Prediction (DL-based)** | Predicts churn using deep learning models. |
+| 🛒 **Customer Churn (DL-based)** | Predicts churn using deep learning models. |
 | 🕵️ **Object Detection (YOLOv11)** | Detects objects in images/videos. |
 | 🌱 **Potato Leaf Disease Classification** | Identifies potato leaf diseases with CNN. |
-
----
 
 #### 🌐 Web Development  
 | 🌐 Project | 📌 Description |
 |------------|----------------|
-| 🌌 **Parallax Website** | A visually appealing website with parallax effects. |
+| 🌌 **Parallax Website** | A visually appealing site with parallax effects. |
 | 🖥️ **Static Web Page** | Basic frontend static site using HTML & CSS. |
-
----
 
 #### 🐍 Python Utilities  
 | 🛠️ Project | 📌 Description |
@@ -89,34 +83,26 @@
 | 🤖 **Word Prediction Chatbot** | Predicts the next word in a sentence. |
 | 🔐 **Password Generator** | Creates strong and secure passwords. |
 
-📌 *More projects on the way...* 🚧  
+📌 *More projects coming soon...* 🚧  
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graphs  
 
-#### 🔹 Contribution Heatmap (Daily Activity)  
+#### 🔹 Contribution Heatmap  
 <p align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="Aninda's Github Contribution Graph" />
+  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="GitHub Contribution Graph"/>
 </p>
-
-
-### 🌱 Contribution Heatmap  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anindasau/anindasau/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
 
 #### 🔹 Activity Graph  
 <p align="center">
@@ -125,7 +111,7 @@
 
 ---
 
-### 🏆 Extra GitHub Flair 
+### 🏆 GitHub Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anindasau&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
@@ -133,7 +119,7 @@
 
 ---
 
-### 📬 Let’s Connect  
+### 📬 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7" target="_blank">
