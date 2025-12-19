@@ -26,7 +26,7 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python | C | Java | JavaScript | R | Pandas |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | NumPy | Scikit-Learn | Matplotlib | TensorFlow | PyTorch | Seaborn |
 
@@ -84,7 +84,6 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 </p>
 
 ---
-
 
 ## 📬 Connect With Me  
 
