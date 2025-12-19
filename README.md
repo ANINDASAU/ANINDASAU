@@ -27,7 +27,7 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 | Python | TensorFlow | PyTorch | Pandas | NumPy | Java |
 
 ### 👁️ Computer Vision & Automation
-| <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logos/logo-yolo-v8.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/google_mediapipe/google_mediapipe-icon.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45"/> | <img src="https://www.relay.app/favicon.ico" width="45"/> |
+| <img src="https://www.vectorlogo.zone/logos/ultralytics/ultralytics-icon.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/google_mediapipe/google_mediapipe-icon.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45"/> | <img src="https://www.relay.app/favicon.ico" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: |
 | YOLO | OpenCV | MediaPipe | n8n | Relay.app |
 
