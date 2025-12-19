@@ -21,20 +21,53 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 ## 🛠️ Skills & Technologies
 
-### 🧠 Programming & AI/ML
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> |
-| :---: | :---: | :---: | :---: | :---: |
-| Python | TensorFlow | PyTorch | Pandas | Java |
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+### 🧠 ML / AI Libraries
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2D3F8D?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### 👁️ Computer Vision & Automation
-| <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logos/logo-yolo-v8.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/> | <img src="https://raw.githubusercontent.com/google/mediapipe/master/mediapipe_logo.png" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45"/> | <img src="https://img.icons8.com/ios-filled/50/000000/automatic.png" width="45"/> |
-| :---: | :---: | :---: | :---: | :---: |
-| YOLO | OpenCV | MediaPipe | n8n | Relay.app |
+<p>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logos/logo-yolo-v8.png" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/google/mediapipe/master/mediapipe_logo.png" width="35"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/relay.svg" width="35"/>
+</p>
+<p>
+  YOLO &nbsp;&nbsp;|&nbsp;&nbsp; OpenCV &nbsp;&nbsp;|&nbsp;&nbsp; MediaPipe &nbsp;&nbsp;|&nbsp;&nbsp; n8n &nbsp;&nbsp;|&nbsp;&nbsp; Relay.app
+</p>
 
-### ☁️ Cloud & Web Development
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> |
-| :---: | :---: | :---: | :---: | :---: |
-| Google Stitch | IBM Cloud | MySQL | Flask | React |
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### ☁️ Cloud & Hosting
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_Cloud-0530ad?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
@@ -68,6 +101,10 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
   &nbsp;&nbsp;
   <a href="mailto:anindasau@gmail.com">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="36"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anindasau">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
   </a>
 </p>
 
