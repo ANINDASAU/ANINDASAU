@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aninda Sau</h1>
-<h3 align="center">
-AI & Deep Learning | Computer Vision | Cloud
-</h3>
+<h3 align="center">AI & Deep Learning | Computer Vision | Cloud</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -12,7 +10,7 @@ AI & Deep Learning | Computer Vision | Cloud
 ## 👨‍💻 About Me
 
 I am **Aninda Sau**, a **B.Tech CSE (AIML)** student at **The Neotia University, India**.  
-I work on **AI, Deep Learning, Computer Vision, and Cloud-based solutions** with a focus on real-world applications.
+I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with real-world focus.
 
 - 🏆 **Finalist – Smart India Hackathon**
 - 🥈 **2nd – Internal University Hackathon**
@@ -25,70 +23,53 @@ I work on **AI, Deep Learning, Computer Vision, and Cloud-based solutions** with
 
 ## 🧠 Tech Stack
 
-### 🔹 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="42"/>
-</p>
+### 👨‍💻 Programming Languages
+
+| | | | | |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R |
 
 ---
 
-### 🔹 AI • Machine Learning • Deep Learning
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
-</p>
+### 🧠 AI / ML / Deep Learning
 
-<p align="center">
-Deep Learning • TensorFlow Lite • Model Optimization
-</p>
+| | | | | |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br>PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas |
+
+**Concepts:** Deep Learning, CNNs, Transfer Learning, TensorFlow Lite
 
 ---
 
-### 🔹 Computer Vision
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42"/>
-</p>
+### 👁️ Computer Vision
 
-<p align="center">
-YOLO • MediaPipe
-</p>
+| | |
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br>OpenCV | YOLO · MediaPipe |
 
 ---
 
-### 🔹 Web & Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-</p>
+### 🌐 Web Development
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS |
 
 ---
 
-### 🔹 Cloud • Databases • Automation
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibmcloud/ibmcloud-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-</p>
+### ☁️ Cloud • Databases • Automation
 
-<p align="center">
-Google Cloud • n8n • relay.app
-</p>
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibmcloud/ibmcloud-original.svg" width="45"/><br>IBM Cloud | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL | Google Cloud · n8n · relay.app |
 
 ---
 
-### 🔹 Data & Notebooks
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="42"/>
-</p>
+### 📊 Notebooks & Tools
+
+| | |
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/><br>Google Colab |
 
 ---
 
@@ -97,7 +78,7 @@ Google Cloud • n8n • relay.app
 | Project | Description |
 |-------|------------|
 | YOLO Object Detection | Real-time object detection |
-| Potato Leaf Disease Detection | CNN-based classifier |
+| Potato Leaf Disease Detection | CNN-based image classification |
 | Emotion Detection | Facial emotion recognition |
 | Customer Churn Prediction | ML & DL models |
 | Graduate Admission Predictor | Regression-based system |
@@ -127,4 +108,4 @@ Google Cloud • n8n • relay.app
 
 ---
 
-<p align="center"><em>Build with purpose. Learn deeply. Grow consistently.</em></p>
+<p align="center"><em>Build with clarity. Learn with depth. Grow with consistency.</em></p>
