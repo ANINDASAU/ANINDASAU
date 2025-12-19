@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aninda Sau</h1>
-<h3 align="center">AI & Deep Learning | Computer Vision | Cloud</h3>
+<h3 align="center">AI & Deep Learning | Computer Vision | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -10,20 +10,18 @@
 ## 👨‍💻 About Me
 
 I am **Aninda Sau**, a **B.Tech CSE (AIML)** student at **The Neotia University, India**.  
-I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with real-world focus.
+I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation**.
 
-- 🏆 **Finalist – Smart India Hackathon**
-- 🥈 **2nd – Internal University Hackathon**
-- ✍️ **University Article Author**
-  - Federated Learning
-  - Prompt Engineering
-- 🌐 Portfolio: https://my-portfolio-iloz.onrender.com
+- 🏆 **Finalist – Smart India Hackathon**  
+- 🥈 **2nd – Internal University Hackathon**  
+- ✍️ **University Article Author**  
+  - Federated Learning  
+  - Prompt Engineering  
+- 🌐 Portfolio: [Click Here](https://my-portfolio-iloz.onrender.com)
 
 ---
 
-## 🧠 Tech Stack
-
-### 👨‍💻 Programming Languages
+## 🧑‍💻 Programming Languages
 
 | | | | | |
 |---|---|---|---|---|
@@ -31,25 +29,27 @@ I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with r
 
 ---
 
-### 🧠 AI / ML / Deep Learning
+## 🧠 AI / Machine Learning / Deep Learning
 
 | | | | | |
 |---|---|---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br>PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas |
 
-**Concepts:** Deep Learning, CNNs, Transfer Learning, TensorFlow Lite
+**Concepts:** Deep Learning, CNNs, Transfer Learning, TensorFlow Lite, Model Optimization
 
 ---
 
-### 👁️ Computer Vision
+## 👁️ Computer Vision
 
 | | |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br>OpenCV | YOLO · MediaPipe |
 
+> ℹ️ *YOLO & MediaPipe are listed as text because they do not have stable official SVG icons.*
+
 ---
 
-### 🌐 Web Development
+## 🌐 Web & Frontend
 
 | | | | |
 |---|---|---|---|
@@ -57,15 +57,17 @@ I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with r
 
 ---
 
-### ☁️ Cloud • Databases • Automation
+## ☁️ Cloud / Databases / Automation
 
 | | | |
 |---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibmcloud/ibmcloud-original.svg" width="45"/><br>IBM Cloud | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL | Google Cloud · n8n · relay.app |
 
+> ℹ️ *Automation & workflow tools (n8n, relay.app) are shown as text — this is realistic and professional.*
+
 ---
 
-### 📊 Notebooks & Tools
+## 📊 Notebooks & Experimentation
 
 | | |
 |---|---|
@@ -80,8 +82,8 @@ I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with r
 | YOLO Object Detection | Real-time object detection |
 | Potato Leaf Disease Detection | CNN-based image classification |
 | Emotion Detection | Facial emotion recognition |
-| Customer Churn Prediction | ML & DL models |
-| Graduate Admission Predictor | Regression-based system |
+| Customer Churn Prediction | ML & DL-based models |
+| Graduate Admission Predictor | Regression-based prediction system |
 
 ---
 
@@ -108,4 +110,4 @@ I work on **AI, Deep Learning, Computer Vision, and Cloud-based systems** with r
 
 ---
 
-<p align="center"><em>Build with clarity. Learn with depth. Grow with consistency.</em></p>
+<p align="center"><em>Build with clarity. Learn deeply. Grow consistently.</em></p>
