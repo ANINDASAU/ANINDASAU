@@ -1,138 +1,79 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50">Aninda Sau</span></h1>
-<h3 align="center">🚀 AIML & Cloud Enthusiast | B.Tech CSE (AIML) Student</h3>
+<h3 align="center">🚀 AIML Developer & Cloud Solutions Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/anindasau?label=Followers&style=flat-square&color=4CAF50" alt="Followers"/>
 </p>
 
 ---
 
-### 🌟 About Me  
+### 🌟 About Me
 
-💡 I'm **Aninda Sau**, a passionate **Computer Science & Engineering student** from **The Neotia University, India**.  
-🔭 Currently exploring **Artificial Intelligence, Machine Learning**, and **Cloud Computing**.  
-⚡ I love building **real-world projects**, solving challenges, and contributing to **open source**.  
-🌐 Check out my **Portfolio** → [Click Here](https://my-portfolio-iloz.onrender.com/)  
+💡 I am a **Computer Science & Engineering (AIML) Student** at The Neotia University with a passion for building intelligent systems and automated workflows.
 
----
+* 🤖 **Deep Learning & AI:** Focused on Neural Networks, Computer Vision, and Predictive Analytics.
+* ⚙️ **Automation & Low-Code:** Building efficient workflows using **n8n** and **Relay.app**.
+* ☁️ **Cloud Infrastructure:** Leveraging **IBM Cloud** and **AWS** for scalable deployments.
+* 🌐 **Full-Stack:** Crafting interactive UIs with **React.js** and robust backends with **Java** and **MySQL**.
 
-### 🛠️ Tech Stack  
-
-#### 👨‍💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
-
-#### 🧠 ML / AI Libraries  
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2D3F8D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-#### 🌐 Web Development  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-#### ☁️ Cloud & Hosting  
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
+🔗 **Portfolio:** [anindasau.dev](https://my-portfolio-iloz.onrender.com/)
 
 ---
 
-### 💼 Featured Projects  
+### 🛠️ Tech Stack & Tools
 
-#### 🔮 Machine Learning  
-| 🚀 Project | 📌 Description |
-|------------|----------------|
-| 🚗 **Car Price Prediction** | Predicts car prices using regression models. |
-| 😄 **Emotion Detection** | Classifies human emotions from input data. |
-| 📉 **Customer Churn Prediction** | Forecasts customer retention likelihood. |
-| 🎯 **Rock vs Mine Prediction** | Classifies sonar signals. |
-| 🎓 **Graduate Admission Prediction** | Predicts admission chances. |
-
-#### 🧠 Deep Learning  
-| 🚀 Project | 📌 Description |
-|------------|----------------|
-| 🛒 **Customer Churn (DL-based)** | Predicts churn using deep learning models. |
-| 🕵️ **Object Detection (YOLOv11)** | Detects objects in images/videos. |
-| 🌱 **Potato Leaf Disease Classification** | Identifies potato leaf diseases with CNN. |
-
-#### 🌐 Web Development  
-| 🌐 Project | 📌 Description |
-|------------|----------------|
-| 🌌 **Parallax Website** | A visually appealing site with parallax effects. |
-| 🖥️ **Static Web Page** | Basic frontend static site using HTML & CSS. |
-
-#### 🐍 Python Utilities  
-| 🛠️ Project | 📌 Description |
-|------------|----------------|
-| 🤖 **Word Prediction Chatbot** | Predicts the next word in a sentence. |
-| 🔐 **Password Generator** | Creates strong and secure passwords. |
-
-📌 *More projects coming soon...* 🚧  
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+| **AI / Data Science** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF6D5B?logo=n8n&logoColor=white) ![Relay](https://img.shields.io/badge/-Relay.app-000000?logo=relay&logoColor=white) ![Stitch](https://img.shields.io/badge/-MongoDB%20Stitch-47A248?logo=mongodb&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
+| **Cloud & DevOps** | ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?logo=ibm&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats  
+### 📂 Featured Open Source Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=Car-Price-Prediction&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=Potato-Leaf-Disease-Classification&theme=radical" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical&hide_border=false" width="100%" />
+</p>
+
+#### 🔹 Contribution Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="Aninda's Contribution Chart" width="100%"/>
 </p>
 
 ---
 
-### 📈 Contribution Graphs  
-
-#### 🔹 Contribution Heatmap  
-<p align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/anindasau" alt="GitHub Contribution Graph"/>
-</p>
-
-#### 🔹 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindasau&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-### 🏆 GitHub Achievements  
-
+### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anindasau&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 📬 Connect With Me  
+### 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anindasau@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://my-portfolio-iloz.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anindasau@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://my-portfolio-iloz.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center"><em>“Code. Learn. Build. Repeat.”</em> 🚀</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
