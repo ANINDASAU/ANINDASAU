@@ -1,143 +1,112 @@
-<!-- ================= PROFILE HEADER ================= -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50">Aninda Sau</span></h1>
-<h3 align="center">
-🚀 AIML • Deep Learning • Cloud & Automation Enthusiast  
-<br/>
-B.Tech CSE (AIML) | The Neotia University, India
-</h3>
+# Hi 👋, I'm Aninda Sau
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### AIML • Deep Learning • Cloud & Automation  
+**B.Tech CSE (AIML) | The Neotia University, India**
 
 ---
 
 ## 👨‍💻 About Me
 
-💡 I’m **Aninda Sau**, a passionate **Computer Science & Engineering (AIML)** student from India.  
-🔭 I specialize in **Machine Learning, Deep Learning, Cloud Platforms, and Automation workflows**.  
-⚡ I enjoy building **production-ready projects**, experimenting with **AI models**, and deploying them on **cloud infrastructure**.  
-🌱 Currently expanding skills in **React.js, IBM Cloud, n8n automation, and scalable AI systems**.  
+I am a **Computer Science & Engineering (AIML)** undergraduate with strong interest in  
+**Artificial Intelligence, Deep Learning, Cloud Computing, and Automation systems**.
 
-🌐 **Portfolio:**  
-👉 https://my-portfolio-iloz.onrender.com/
+- 🔭 Actively building **real-world ML & DL projects**
+- ⚙️ Exploring **cloud deployment, workflow automation, and scalable systems**
+- 🧠 Strong foundation in **data-driven problem solving**
+- 🌱 Currently learning **React.js and advanced cloud-native tools**
 
----
-
-## 🧠 Core Skills & Technologies
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+🔗 **Portfolio:** https://my-portfolio-iloz.onrender.com/
 
 ---
 
-### 🤖 AI, Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-2D3F8D?style=for-the-badge"/>
-</p>
+## 🧠 Technical Skills
 
-🧠 **Tools:** Google Colab, Jupyter Notebook  
-📊 **Domains:** Prediction systems, Classification, Object Detection, NLP basics
+### Programming & Databases
+- Python  
+- Java  
+- C  
+- JavaScript  
+- MySQL  
 
----
+### Machine Learning & Deep Learning
+- Supervised & Unsupervised Learning  
+- Deep Learning fundamentals (CNN, basic architectures)  
+- Model evaluation & optimization  
+- Data preprocessing & feature engineering  
 
-### 🌐 Web & Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+**Libraries & Tools:**  
+NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
 
----
+### Development & Notebooks
+- Google Colab  
+- Jupyter Notebook  
 
-### ☁️ Cloud, DevOps & Automation
-<p>
-  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/relay.app-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stitch-1F2937?style=for-the-badge"/>
-</p>
+### Web & Application Development
+- HTML5, CSS3  
+- React.js  
+- Flask  
 
-⚙️ **Focus:** Automation pipelines, cloud deployment, workflow orchestration
+### Cloud & Automation
+- IBM Cloud  
+- AWS (fundamentals)  
+- Render (deployment)  
+- n8n (workflow automation)  
+- relay.app  
+- Stitch  
 
 ---
 
-## 🚀 Featured Projects (Live GitHub Fetch)
+## 🚀 Projects
 
-> These cards are **directly fetched from my GitHub repositories** 👇
+### Machine Learning
+- **Car Price Prediction** – Regression-based price estimation  
+- **Emotion Detection** – Emotion classification from input data  
+- **Customer Churn Prediction** – Retention analysis  
+- **Rock vs Mine Prediction** – Sonar signal classification  
+- **Graduate Admission Prediction** – Probability-based prediction  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=car-price-prediction&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=emotion-detection&theme=radical"/>
-</p>
+### Deep Learning
+- **Customer Churn (DL)** – Neural network–based churn analysis  
+- **Object Detection (YOLO)** – Object detection in images/videos  
+- **Potato Leaf Disease Classification** – CNN-based disease detection  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=customer-churn-prediction&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=potato-leaf-disease-classification&theme=radical"/>
-</p>
+### Web Development
+- **Parallax Website** – UI-focused frontend project  
+- **Static Web Pages** – HTML & CSS implementations  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindasau&repo=object-detection-yolo&theme=radical"/>
-</p>
+### Python Utilities
+- **Word Prediction Chatbot**  
+- **Password Generator**
 
-📌 *More AI, automation, and cloud projects coming soon…*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindasau&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=radical"/>
-</p>
+📌 *All projects are available in my GitHub repositories.*
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anindasau&theme=radical&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anindasau@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://my-portfolio-iloz.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge"/>
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=default)
 
 ---
 
-<p align="center">
-  <em>“Build intelligent systems. Automate the boring. Scale with cloud.”</em> 🚀
-</p>
+## 📈 Contribution Activity
+
+![Contribution Graph](https://ghchart.rshah.org/anindasau)
+
+---
+
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anindasau&no-frame=true&margin-w=10)
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/aninda-sau-5445b72a7  
+- **Email:** anindasau@gmail.com  
+- **Portfolio:** https://my-portfolio-iloz.onrender.com/
+
+---
+
+> *“Focus on fundamentals. Build useful systems. Keep learning.”*
