@@ -24,39 +24,41 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> C &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> C &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/> R
 
 ### AI / Machine Learning / Deep Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> Scikit-learn &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> Scikit-learn &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas  
 
 **Concepts:** Deep Learning, CNNs, Transfer Learning, TensorFlow Lite, Model Optimization
 
-### Computer Vision
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/> OpenCV &nbsp;&nbsp;
-YOLO &nbsp;&nbsp; MediaPipe  
+### Computer Vision & Automation
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/opencv.png" width="40"/> OpenCV &nbsp;
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/yolo.png" width="40"/> YOLO &nbsp;
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/mediapipe.png" width="40"/> MediaPipe &nbsp;
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/n8n.png" width="40"/> n8n &nbsp;
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/relay.png" width="40"/> relay.app
 
 ### Web & Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS
 
-### Cloud, Databases & Automation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibmcloud/ibmcloud-original.svg" width="40"/> IBM Cloud &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> Google Cloud &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL &nbsp;&nbsp;
-n8n · relay.app
+### Cloud Platforms & Databases
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/ibmcloud.png" width="40"/> IBM Cloud &nbsp;
+<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/googlecloud.png" width="40"/> Google Cloud &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL
 
 ### Notebooks & Experimentation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> Jupyter &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> Jupyter &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/> Google Colab
 
 ---
