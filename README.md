@@ -59,18 +59,20 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 ---
 
-## 📬 Connect With Me
+### 📬 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:anindasau@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40"/>
+  <a href="mailto:anindasau@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-iloz.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><em>Built with clarity. Learn deeply. Grow consistently.</em></p>
+<p align="center"><em>“Code. Learn. Build. Repeat.”</em> 🚀</p>
