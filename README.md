@@ -1,112 +1,136 @@
-# Hi 👋, I'm Aninda Sau
+<!-- ================= PROFILE HEADER ================= -->
+<h1 align="center">Hi, I'm Aninda Sau 👋</h1>
 
-### AIML • Deep Learning • Cloud & Automation  
-**B.Tech CSE (AIML) | The Neotia University, India**
+<h3 align="center">
+AIML • Deep Learning • Cloud & Automation Engineer  
+</h3>
 
----
+<p align="center">
+B.Tech CSE (AIML) | The Neotia University, India
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anindasau&label=Profile%20Views&color=555&style=flat" />
+</p>
 
-I am a **Computer Science & Engineering (AIML)** undergraduate with strong interest in  
-**Artificial Intelligence, Deep Learning, Cloud Computing, and Automation systems**.
+<hr/>
 
-- 🔭 Actively building **real-world ML & DL projects**
-- ⚙️ Exploring **cloud deployment, workflow automation, and scalable systems**
-- 🧠 Strong foundation in **data-driven problem solving**
-- 🌱 Currently learning **React.js and advanced cloud-native tools**
+<!-- ================= ABOUT ================= -->
+<h2>👨‍💻 About Me</h2>
 
-🔗 **Portfolio:** https://my-portfolio-iloz.onrender.com/
+<p>
+I am a <b>Computer Science & Engineering (AIML)</b> undergraduate with a strong focus on 
+<b>Artificial Intelligence, Deep Learning, Cloud Platforms, and Automation</b>.
+</p>
 
----
+<p>
+I enjoy designing <b>data-driven systems</b>, building <b>end-to-end AI projects</b>, and deploying them using 
+<b>modern cloud and workflow automation tools</b>.
+</p>
 
-## 🧠 Technical Skills
+<p>
+🌐 Portfolio: <a href="https://my-portfolio-iloz.onrender.com/">my-portfolio-iloz.onrender.com</a>
+</p>
 
-### Programming & Databases
-- Python  
-- Java  
-- C  
-- JavaScript  
-- MySQL  
+<hr/>
 
-### Machine Learning & Deep Learning
-- Supervised & Unsupervised Learning  
-- Deep Learning fundamentals (CNN, basic architectures)  
-- Model evaluation & optimization  
-- Data preprocessing & feature engineering  
+<!-- ================= SKILLS ================= -->
+<h2>🧠 Technical Skills</h2>
 
-**Libraries & Tools:**  
-NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+<h3>Programming Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql" />
+</p>
 
-### Development & Notebooks
-- Google Colab  
-- Jupyter Notebook  
+<h3>AI, Machine Learning & Deep Learning</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp; NumPy • Pandas • Scikit-learn • Deep Learning • CNNs
+</p>
 
-### Web & Application Development
-- HTML5, CSS3  
-- React.js  
-- Flask  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jupyter,anaconda" />
+  &nbsp; Jupyter Notebook • Google Colab
+</p>
 
-### Cloud & Automation
-- IBM Cloud  
-- AWS (fundamentals)  
-- Render (deployment)  
-- n8n (workflow automation)  
-- relay.app  
-- Stitch  
+<h3>Web & Application Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
+</p>
 
----
+<h3>Cloud, Databases & Automation</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,ibmcloud" />
+  &nbsp; IBM Cloud • AWS
+</p>
 
-## 🚀 Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp; MySQL • Stitch
+</p>
 
-### Machine Learning
-- **Car Price Prediction** – Regression-based price estimation  
-- **Emotion Detection** – Emotion classification from input data  
-- **Customer Churn Prediction** – Retention analysis  
-- **Rock vs Mine Prediction** – Sonar signal classification  
-- **Graduate Admission Prediction** – Probability-based prediction  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+  &nbsp; n8n • relay.app (Workflow Automation)
+</p>
 
-### Deep Learning
-- **Customer Churn (DL)** – Neural network–based churn analysis  
-- **Object Detection (YOLO)** – Object detection in images/videos  
-- **Potato Leaf Disease Classification** – CNN-based disease detection  
+<hr/>
 
-### Web Development
-- **Parallax Website** – UI-focused frontend project  
-- **Static Web Pages** – HTML & CSS implementations  
+<!-- ================= PROJECTS ================= -->
+<h2>🚀 Selected Projects</h2>
 
-### Python Utilities
-- **Word Prediction Chatbot**  
-- **Password Generator**
+<h3>Machine Learning</h3>
+<ul>
+  <li><b>Car Price Prediction</b> – Regression-based pricing model</li>
+  <li><b>Emotion Detection</b> – Emotion classification system</li>
+  <li><b>Customer Churn Prediction</b> – Retention analysis</li>
+  <li><b>Rock vs Mine Prediction</b> – Sonar signal classification</li>
+  <li><b>Graduate Admission Prediction</b> – Probability-based prediction</li>
+</ul>
 
-📌 *All projects are available in my GitHub repositories.*
+<h3>Deep Learning</h3>
+<ul>
+  <li><b>Customer Churn (DL)</b> – Neural network-based model</li>
+  <li><b>Object Detection (YOLO)</b> – Image & video object detection</li>
+  <li><b>Potato Leaf Disease Classification</b> – CNN-based classification</li>
+</ul>
 
----
+<h3>Web & Utilities</h3>
+<ul>
+  <li><b>Parallax Website</b> – Modern UI frontend</li>
+  <li><b>Static Web Pages</b> – HTML & CSS</li>
+  <li><b>Word Prediction Chatbot</b></li>
+  <li><b>Password Generator</b></li>
+</ul>
 
-## 📊 GitHub Overview
+<p><i>All projects are available in my GitHub repositories.</i></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=default)
+<hr/>
 
----
+<!-- ================= GITHUB STATS ================= -->
+<h2>📊 GitHub Activity</h2>
 
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anindasau&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-![Contribution Graph](https://ghchart.rshah.org/anindasau)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindasau&layout=compact&theme=default&hide_border=true" />
+</p>
 
----
+<hr/>
 
-## 🏆 Achievements
+<!-- ================= CONTACT ================= -->
+<h2>📬 Connect With Me</h2>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anindasau&no-frame=true&margin-w=10)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7">LinkedIn</a><br/>
+  <a href="mailto:anindasau@gmail.com">anindasau@gmail.com</a><br/>
+  <a href="https://my-portfolio-iloz.onrender.com/">Portfolio Website</a>
+</p>
 
----
+<hr/>
 
-## 📬 Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/aninda-sau-5445b72a7  
-- **Email:** anindasau@gmail.com  
-- **Portfolio:** https://my-portfolio-iloz.onrender.com/
-
----
-
-> *“Focus on fundamentals. Build useful systems. Keep learning.”*
+<p align="center">
+  <em>“Build intelligent systems. Automate workflows. Scale with cloud.”</em>
+</p>
