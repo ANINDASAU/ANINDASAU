@@ -1,3 +1,4 @@
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Aninda Sau</h1>
 <h3 align="center">
 AI & Deep Learning Engineer | Computer Vision | Cloud Enthusiast
@@ -12,33 +13,26 @@ AI & Deep Learning Engineer | Computer Vision | Cloud Enthusiast
 ## 👨‍💻 About Me
 
 I’m **Aninda Sau**, a **B.Tech CSE (AIML)** student at **The Neotia University, India**.  
-I focus on building **real-world AI, Deep Learning, Computer Vision, and Automation systems**.
+I enjoy building **real-world AI systems**, especially in **Deep Learning, Computer Vision, Automation, and Cloud**.
 
-- 🔍 Interests: AI, Deep Learning, CV, Cloud & AI Automation  
-- 🏆 Smart India Hackathon Finalist  
-- ✍️ University article author on *Federated Learning* & *Prompt Engineering*  
-- 🌐 Portfolio: https://my-portfolio-iloz.onrender.com  
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Finalist – Smart India Hackathon (SIH)**
-- 🥈 **2nd Position – Internal University Hackathon**
-- ✍️ **Published Technical Articles**  
+- 🔍 Interests: AI, Deep Learning, Computer Vision, Cloud & AI Automation  
+- 🏆 **Finalist – Smart India Hackathon (SIH)**  
+- 🥈 **2nd Position – Internal University Hackathon**  
+- ✍️ **University Article Author**  
   - Federated Learning  
   - Prompt Engineering  
+- 🌐 Portfolio: https://my-portfolio-iloz.onrender.com  
 
 ---
 
 ## 🧑‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
 </p>
 
 ---
@@ -46,21 +40,24 @@ I focus on building **real-world AI, Deep Learning, Computer Vision, and Automat
 ## 🧠 AI • Machine Learning • Deep Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-3DDC84?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
+
+- Deep Learning (CNNs, Transfer Learning)  
+- TensorFlow Lite (Model Optimization & Edge Deployment)
 
 ---
 
 ## 👁️ Computer Vision
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/yolo-logo.svg" width="40"/>
+  <img src="https://developers.google.com/mediapipe/images/mediapipe_logo.png" width="40"/>
 </p>
 
 ---
@@ -68,10 +65,10 @@ I focus on building **real-world AI, Deep Learning, Computer Vision, and Automat
 ## 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ---
@@ -79,18 +76,21 @@ I focus on building **real-world AI, Deep Learning, Computer Vision, and Automat
 ## ☁️ Cloud • Databases • Automation
 
 <p>
-  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibmcloud/ibmcloud-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
 </p>
+
+- n8n – Workflow Automation  
+- API & AI Pipeline Integration  
 
 ---
 
-## 📊 Data & Notebooks
+## 📊 Notebooks & Research Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
 </p>
 
 ---
@@ -98,12 +98,12 @@ I focus on building **real-world AI, Deep Learning, Computer Vision, and Automat
 ## 💼 Selected Projects
 
 | Project | Description |
-|------|------------|
+|------|-------------|
 | YOLO Object Detection | Real-time object detection system |
-| Potato Leaf Disease Detection | CNN-based image classifier |
+| Potato Leaf Disease Detection | CNN-based image classification |
 | Emotion Detection | Facial emotion recognition |
-| Customer Churn Prediction | ML & DL-based analysis |
-| Graduate Admission Predictor | Regression-based model |
+| Customer Churn Prediction | ML & DL-based churn analysis |
+| Graduate Admission Predictor | Regression-based prediction system |
 
 ---
 
@@ -120,16 +120,13 @@ I focus on building **real-world AI, Deep Learning, Computer Vision, and Automat
 
 <p>
   <a href="https://www.linkedin.com/in/aninda-sau-5445b72a7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
   <a href="mailto:anindasau@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://my-portfolio-iloz.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><em>Build. Learn. Improve. Repeat.</em></p>
+<p align="center"><em>Build real things. Learn deeply. Improve continuously.</em></p>
