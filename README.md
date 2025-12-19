@@ -21,18 +21,18 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 ## 🛠️ Skills & Technologies
 
-### 🚀 Languages & AI/ML
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> |
+### 🧠 Programming & AI/ML
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: |
 | Python | TensorFlow | PyTorch | Pandas | Java |
 
 ### 👁️ Computer Vision & Automation
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vlc.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/automattic.svg" width="40"/> |
+| <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logos/logo-yolo-v8.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/> | <img src="https://raw.githubusercontent.com/google/mediapipe/master/mediapipe_logo.png" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45"/> | <img src="https://img.icons8.com/ios-filled/50/000000/automatic.png" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| OpenCV | YOLO | MediaPipe | n8n | Relay.app |
+| YOLO | OpenCV | MediaPipe | n8n | Relay.app |
 
-### ☁️ Cloud & Databases
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibmcloud.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> |
+### ☁️ Cloud & Web Development
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: |
 | Google Stitch | IBM Cloud | MySQL | Flask | React |
 
@@ -40,13 +40,13 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 ## 💼 Selected Projects
 
-| Project Name | Technology Stack | Description |
+| Project Name | Technology Stack | Key Achievement |
 | :--- | :--- | :--- |
-| **🔍 YOLO Object Detection** | YOLO, OpenCV, Python | Real-time object detection and tracking systems. |
-| **🍃 Potato Leaf Disease** | CNN, TensorFlow, Keras | Image classification to identify diseases in potato crops. |
-| **😊 Emotion Detection** | Deep Learning, OpenCV | Facial recognition system to analyze human emotions in real-time. |
-| **📉 Customer Churn** | ML, Scikit-Learn, Pandas | Predictive analytics to forecast customer retention/loss. |
-| **🎓 Admission Predictor** | Regression Models, Python | Forecasts university admission chances based on student data. |
+| **🔍 YOLO Object Detection** | YOLO, OpenCV, Python | Real-time object tracking and multi-class detection. |
+| **🍃 Potato Leaf Disease** | CNN, TensorFlow, Keras | High-accuracy automated disease classification. |
+| **😊 Emotion Detection** | Deep Learning, MediaPipe | Real-time facial expression mapping and recognition. |
+| **📉 Customer Churn** | ML, Scikit-Learn, Pandas | Predictive modeling for business retention analysis. |
+| **🎓 Admission Predictor** | Regression Models, Python | Data-driven forecasting for university admissions. |
 
 ---
 
