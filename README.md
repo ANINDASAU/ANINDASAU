@@ -12,10 +12,7 @@
 I am **Aninda Sau**, a **B.Tech CSE (AIML)** student at **The Neotia University, India**.  
 I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation**.
 
-- 🏆 **Finalist – Smart India Hackathon**  
-- 🥈 **2nd – Internal University Hackathon**  
-- ✍️ **University Article Author**  
-  - Federated Learning  
+- 🏆 **Finalist – Smart India Hackathon** - 🥈 **2nd – Internal University Hackathon** - ✍️ **University Article Author** - Federated Learning  
   - Prompt Engineering  
 - 🌐 Portfolio: [Click Here](https://my-portfolio-iloz.onrender.com)
 
@@ -23,53 +20,57 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> C &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/> R
+### 🚀 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
+</p>
 
-### AI / Machine Learning / Deep Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> Scikit-learn &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas  
+### 🧠 AI / Machine Learning / Deep Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/> 
+</p>
 
-**Concepts:** Deep Learning, CNNs, Transfer Learning, TensorFlow Lite, Model Optimization
+### 👁️ Computer Vision & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/> &nbsp;
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=gitbook&logoColor=black" height="40" title="YOLO"/> &nbsp;
+  <img src="https://img.shields.io/badge/MediaPipe-00a6ed?style=flat-square&logo=google&logoColor=white" height="40" title="MediaPipe"/> &nbsp;
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="40" title="n8n Automation"/> &nbsp;
+  <img src="https://img.shields.io/badge/Relay.app-212121?style=flat-square&logo=automation&logoColor=white" height="40" title="Relay.app"/>
+</p>
 
-### Computer Vision & Automation
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/opencv.png" width="40"/> OpenCV &nbsp;
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/yolo.png" width="40"/> YOLO &nbsp;
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/mediapipe.png" width="40"/> MediaPipe &nbsp;
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/n8n.png" width="40"/> n8n &nbsp;
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/relay.png" width="40"/> relay.app
+### ☁️ Cloud Platforms & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/> &nbsp;
+  <img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white" height="40" title="IBM Cloud"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
 
-### Web & Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS
-
-### Cloud Platforms & Databases
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/ibmcloud.png" width="40"/> IBM Cloud &nbsp;
-<img src="https://raw.githubusercontent.com/anindasau/assets/main/icons/googlecloud.png" width="40"/> Google Cloud &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL
-
-### Notebooks & Experimentation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> Jupyter &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/> Google Colab
+### 💻 Web & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" title="Google Colab"/>
+</p>
 
 ---
 
 ## 💼 Selected Projects
 
-- **YOLO Object Detection:** Real-time object detection  
-- **Potato Leaf Disease Detection:** CNN-based image classification  
-- **Emotion Detection:** Facial emotion recognition  
-- **Customer Churn Prediction:** ML & DL-based models  
-- **Graduate Admission Predictor:** Regression-based prediction system
+- **🔍 YOLO Object Detection:** Real-time object detection systems.
+- **🍃 Potato Leaf Disease Detection:** CNN-based image classification for agriculture.
+- **😊 Emotion Detection:** Facial recognition to analyze human emotions.
+- **📉 Customer Churn Prediction:** Predictive analytics using ML & DL models.
+- **🎓 Graduate Admission Predictor:** Regression-based system for academic forecasting.
 
 ---
 
