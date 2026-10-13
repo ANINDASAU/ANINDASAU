@@ -24,7 +24,7 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 ### 🧠 Programming & ML Libraries
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python | C | Java | JavaScript | R | Pandas |
+| Python | C | Java | R | Pandas |
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -42,7 +42,7 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, and Automation
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> |
 | :---: | :---: | :---: | :---: |
-| HTML | CSS | Flask | React |
+| HTML | CSS | Flask
 
 ---
 
