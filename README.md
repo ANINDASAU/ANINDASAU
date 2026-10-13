@@ -80,14 +80,6 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, DevOps, and Au
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindasau&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -112,4 +104,4 @@ I focus on **AI, Deep Learning, Computer Vision, Cloud Computing, DevOps, and Au
 
 ---
 
-<p align="center"><em>"Code. Learn. Build. Repeat."</em> 🚀</p>
+<p align="center"><em>"Learn. Build. Repeat."</em> 🚀</p>
